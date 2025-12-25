@@ -15,7 +15,7 @@ This is a Streamlit web application for an Applicant Tracking System (ATS) Resum
 1. Clone the repository:
 
 ```
-git clone https://github.com/lssdivya/ATS.git
+git clone https:/nikhiljairams99/github.com//ATS.git
 ```
 
 Install the required dependencies:
